@@ -9,7 +9,7 @@
 - **Projektteilnehemer:** Vier
 
 
-## **Zuteilung:**
+## **Zuteilung**
 1. Büsra San
 ```
 
@@ -40,7 +40,3 @@ Ist die Zufriedenheit des finanziellen Status an den Bildungsstand gekoppelt?
 Wie ist die entsprechende Selbsteinschätzung der sozialen Schichtzugehörigkeit?
 
 ```
-
-
-
-

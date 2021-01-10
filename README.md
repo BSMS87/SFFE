@@ -11,7 +11,7 @@ Das Projekt untersuchte kleine Familienunternehmen in mittelgroßen Städten in 
 - **Grundgesamtheit:** Kleine Familienunternehmen
 - Die Umfragedaten wurden 2016 von den Forschenden des Projekts erhoben
 - Die Umfragedaten die qualitativen Daten.
-- **Erhebungszeitraum:* 01.01.2016 - 31.12.2016
+- **Erhebungszeitraum:** 01.01.2016 - 31.12.2016
 - **Der eurasischen Landmasse:** 
     - China 
     - Dänemark 

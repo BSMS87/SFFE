@@ -27,3 +27,6 @@ Das Projekt untersuchte kleine Familienunternehmen in mittelgroßen Städten in 
 ## Resources 
 Study - Data Source →  https://search.gesis.org/research_data/ZA6702
 
+# Fragestellung
+## Erste Frage: 
+1. Familie, Moral und Werte im Leben:

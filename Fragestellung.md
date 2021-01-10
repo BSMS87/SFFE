@@ -4,9 +4,9 @@
 **Stand:** 10.01.2021
 
 ## Info
-**Vorlesung:** Wissenschaftliche Methodik - Sonstige Beteiligung
-**Studiengangskürzel:** MBB WS20 S
-**Projektteilnehemer:** Vier
+- **Vorlesung:** Wissenschaftliche Methodik - Sonstige Beteiligung
+- **Studiengangskürzel:** MBB WS20 S
+- **Projektteilnehemer:** Vier
 
 
 ## **Zuteilung:**

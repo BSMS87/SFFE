@@ -11,11 +11,11 @@
 
 ## **Zuteilung:**
 1. Büsra San
+
 ```
-1. Familie, Moral und Werte im Leben:
 - Arbeitsplätze knapp -> Männer sollten mehr Recht auf eine Arbeit haben als Frauen
-Wenn traditionelles Familienbild vorhanden? 
-Rechtfertigung einer höheren Bezahlung für einen von zwei Arbeitnehmern, die die gleiche Arbeit verrichten;
+Wirkt sich das Alter der Befragten auf die Meinung aus?
+
 ```
 
 2. Bilal Shath

@@ -9,14 +9,14 @@ Das Projekt untersuchte kleine Familienunternehmen in mittelgroßen Städten in 
 - Die Umfragedaten wurden 2016 von den Forschenden des Projekts erhoben
 - Die Umfragedaten die qualitativen Daten.
 - **Der eurasischen Landmasse:** 
- - China 
- - Dänemark 
- - Deutschland
- - Ungarn
- - Indien
- - Myanmar
- - Russland
- - Türkei
+    - China 
+    - Dänemark 
+    - Deutschland
+    - Ungarn
+    - Indien
+    - Myanmar
+    - Russland
+    - Türkei
 - **Art des Datenformats:** Numerisch
 - **Anzahl der Einheiten:** 305
 - **Anzahl der Variablen:** 472

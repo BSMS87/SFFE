@@ -13,7 +13,7 @@
 1. Büsra San
 ```
 
-Arbeitsplätze knapp -> Männer sollten mehr Recht auf eine Arbeit haben als Frauen:
+Arbeitsplätze knapp -> Männer sollten mehr Recht auf eine Arbeit haben als Frauen
 Wirkt sich das Alter der Befragten auf die Meinung aus?
 
 ```

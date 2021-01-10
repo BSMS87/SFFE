@@ -1,10 +1,16 @@
 # Fragestellungen
+
 **Hinweise:** Die Fragestellungen stehen zu diesen Zeitpunkt nicht final fest. Ändereungen sind immer noch vorbehalten. 
 **Stand:** 10.01.2021
+
+## Info
+**Vorlesung:** Wissenschaftliche Methodik - Sonstige Beteiligung
+**Studiengangskürzel:** MBB WS20 S
 **Projektteilnehemer:** Vier
 
-**Zuteilung:**
-1. Büsra
+
+## **Zuteilung:**
+1. Büsra San
 ```
 1. Familie, Moral und Werte im Leben:
 - Arbeitsplätze knapp -> Männer sollten mehr Recht auf eine Arbeit haben als Frauen
@@ -12,26 +18,23 @@ Wenn traditionelles Familienbild vorhanden?
 Rechtfertigung einer höheren Bezahlung für einen von zwei Arbeitnehmern, die die gleiche Arbeit verrichten;
 ```
 
-2. Bilal
+2. Bilal Shath
 ```
-
 1. Familie, Moral und Werte im Leben:
 - Erfolgreich > Work-Life-Balance vorhanden?
 - Bedeutung Familie -> stärkere Verbindung, erfolgreicher?
 ```
 
-3. Florian
+3. Florian Koch
 ```
-
 4. Geschäft und Arbeit:
 - Entscheidungsfreiheit am Arbeitsplatz > Relevanz für Gründung?
 -> erfolgreicher? Einkommen
 
 ```
 
-4. Phuongy
+4. Phuong-Ha Tran
 ```
-
 1. Familie, Moral und Werte im Leben:
 - Je höher Qualifikation - desto erfolgreicher?
 5. Demographie:

@@ -1,13 +1,17 @@
-# SFFE Small Family Firms in Eurasia Study
+# SFFE - Small Family Firms in Eurasia Study
 
-## Abstract 
-Die Daten wurden für das ERC-Projekt ´Realising Eurasia: Civilisation and Moral Economy in the 21st Century´ gesammelt.
-Das Projekt untersuchte kleine Familienunternehmen in mittelgroßen Städten in acht Länder
+## Quellen  
+Study - Data Source →  https://search.gesis.org/research_data/ZA6702
+
+## Abstrakt 
+Die Daten wurden für das ERC-Projekt "Realising Eurasia: Civilisation and Moral Economy in the 21st Century" gesammelt.
+Das Projekt untersuchte kleine Familienunternehmen in mittelgroßen Städten in acht Ländern. Die Daten wurden im Jahr 2016 erhoben und im Jahr 2020 veröffentlicht.
 
 ## Data Analysis
 - **Grundgesamtheit:** Kleine Familienunternehmen
 - Die Umfragedaten wurden 2016 von den Forschenden des Projekts erhoben
 - Die Umfragedaten die qualitativen Daten.
+- **Erhebungszeitraum:* 01.01.2016 - 31.12.2016
 - **Der eurasischen Landmasse:** 
     - China 
     - Dänemark 
@@ -21,12 +25,7 @@ Das Projekt untersuchte kleine Familienunternehmen in mittelgroßen Städten in 
 - **Anzahl der Einheiten:** 305
 - **Anzahl der Variablen:** 472
  
-## Abbreviations 
-´Klein´ entsprechend der Interpretation jedes Forschers, die sich an länderspezifischen Vorstellungen orientiert.
- 
-## Resources 
-Study - Data Source →  https://search.gesis.org/research_data/ZA6702
 
-## Fragestellung
-## Erste Frage: 
-1. Familie, Moral und Werte im Leben:
+ 
+
+

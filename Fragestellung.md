@@ -2,9 +2,10 @@
 
 - **Hinweise:** Die Fragestellungen stehen zu diesen Zeitpunkt nicht final fest. Ändereungen sind immer noch vorbehalten. 
 - **Stand:** 10.01.2021
-- [x] Fragestellung
-- [ ] Test Schreiben - Code
-- [ ] Push commits to GitHub
+- **List to Dos:**
+    - [x] Fragestellung
+    - [ ] Test Schreiben - Code
+    - [ ] Push commits to GitHub
 
 ## Informationen
 - **Vorlesung:** Wissenschaftliche Methodik - Sonstige Beteiligung

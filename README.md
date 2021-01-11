@@ -4,9 +4,11 @@
     - [x] Fragestellung
     - [ ] Test Schreiben - Code
     - [ ] Push commits to GitHub
+    
+- Die Fragestellung befindet sich oben in `Fragestellung.md`
 
 ## Quellen  
-Study - Data Source →  https://search.gesis.org/research_data/ZA6702
+Study - Data Source → [Small Family Firms in Eurasia - GESIS](https://search.gesis.org/research_data/ZA6702).
 
 ## Abstrakt 
 Die Daten wurden für das ERC-Projekt "Realising Eurasia: Civilisation and Moral Economy in the 21st Century" gesammelt.

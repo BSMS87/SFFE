@@ -1,4 +1,9 @@
 # SFFE - Small Family Firms in Eurasia Study
+### Stand
+- **List to Dos:**
+    - [x] Fragestellung
+    - [ ] Test Schreiben - Code
+    - [ ] Push commits to GitHub
 
 ## Quellen  
 Study - Data Source →  https://search.gesis.org/research_data/ZA6702

@@ -11,32 +11,27 @@
 
 ## **Zuteilung**
 1. Büsra San
-```
 
+```
 Arbeitsplätze knapp -> Männer sollten mehr Recht auf eine Arbeit haben als Frauen
 Wirkt sich das Alter der Befragten auf die Meinung aus?
-
 ```
 
 2. Bilal Shath
 ```
-- Familie, Moral und Werte im Leben:
-- Work-Life-Balance vorhanden?
-- Bedeutung Familie -> stärkere Verbindung, erfolgreicher?
+Bedeutung von Familie -> Spielt die Familie eine Rolle für den Geschäftserfolg?
+Freunden und Freizeit -> Wirkt sich mehr Arbeit oder mehr Freizeit zu haben?
 ```
 
 3. Florian Koch
 ```
-
 4. Geschäft und Arbeit:
 - Entscheidungsfreiheit am Arbeitsplatz > Relevanz für Gründung?
 -> erfolgreicher? Einkommen
-
 ```
 
 4. Phuong-Ha Tran
 ```
 Ist die Zufriedenheit des finanziellen Status an den Bildungsstand gekoppelt? 
 Wie ist die entsprechende Selbsteinschätzung der sozialen Schichtzugehörigkeit?
-
 ```

@@ -7,6 +7,12 @@
     
 - Die Fragestellung befindet sich oben in `Fragestellung.md`
 
+## Packages und Bibliotheken zur Innstallation bevor die Ausführung der Tests
+1. Haven
+
+install.packages("haven")
+،
+
 ## Quellen  
 Study - Data Source → [Small Family Firms in Eurasia - GESIS](https://search.gesis.org/research_data/ZA6702).
 

@@ -4,7 +4,7 @@
 - **Stand:** 10.01.2021
 - [x] Fragestellung
 - [ ] Test Schreiben - Code
-- [ ] Push my commits GitHub
+- [ ] Push commits to GitHub
 
 ## Informationen
 - **Vorlesung:** Wissenschaftliche Methodik - Sonstige Beteiligung

@@ -7,7 +7,7 @@
     
 - Die Fragestellung befindet sich oben in `Fragestellung.md`
 
-## Packages und Bibliotheken zur Innstallation bevor die Ausführung der Tests
+## Packages, die installiert werden müssen, um den Test auszuführen
 1. mosaic 
 
 ```

@@ -8,10 +8,10 @@
 - Die Fragestellung befindet sich oben in `Fragestellung.md`
 
 ## Packages und Bibliotheken zur Innstallation bevor die Ausführung der Tests
-1. Mosaiac 
+1. mosaic 
 
 ```
-install.packages("mosaiac")
+install.packages("mosaic")
 ```
 
 2. Haven

@@ -25,9 +25,8 @@ Freunden und Freizeit -> Wirkt sich mehr Arbeit oder mehr Freizeit zu haben?
 
 3. Florian Koch
 ```
-4. Geschäft und Arbeit:
-- Entscheidungsfreiheit am Arbeitsplatz > Relevanz für Gründung?
--> erfolgreicher? Einkommen
+Hat die Berufsausbildung einen Einfluss auf den Beginn einer selbstständigen, freiberuflichen Tätigkeit?
+Werden in Familienunternehmen Bewerber aus dem persönlichen Umfeld rekrutiert?
 ```
 
 4. Phuong-Ha Tran

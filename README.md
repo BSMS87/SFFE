@@ -2,7 +2,7 @@
 ### Stand: 10.01.2021
 - **List to Dos:**
     - [x] Fragestellung
-    - [ ] Test Schreiben - Code
+    - [x] Test Schreiben - Code
     - [ ] Push commits to GitHub
     
 - Die Fragestellung befindet sich oben in `Fragestellung.md`

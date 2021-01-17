@@ -20,6 +20,10 @@ install.packages("mosaic")
 install.packages("haven")
 ```
 
+3. foreign
+```
+install.packages("foreign")
+```
 ## Quellen  
 Study - Data Source → [Small Family Firms in Eurasia - GESIS](https://search.gesis.org/research_data/ZA6702).
 

@@ -34,3 +34,5 @@ Werden in Familienunternehmen Bewerber aus dem persönlichen Umfeld rekrutiert?
 Ist die Zufriedenheit des finanziellen Status an den Bildungsstand gekoppelt? 
 Wie ist die entsprechende Selbsteinschätzung der sozialen Schichtzugehörigkeit?
 ```
+
+

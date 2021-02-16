@@ -3,7 +3,7 @@
 - **List to Dos:**
     - [x] Fragestellung
     - [x] Test Schreiben - Code
-    - [ ] Push commits to GitHub
+    - [x] Push commits to GitHub
     
 - Die Fragestellung befindet sich oben in `Fragestellung.md`
 

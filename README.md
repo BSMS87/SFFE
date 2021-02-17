@@ -1,5 +1,5 @@
 # SFFE - Small Family Firms in Eurasia Study
-### Stand: 10.01.2021
+### Stand: 17.02.2021
 - **List to Dos:**
     - [x] Fragestellung
     - [x] Test Schreiben - Code

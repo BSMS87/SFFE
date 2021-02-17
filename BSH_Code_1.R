@@ -9,7 +9,7 @@ library(rgl)
 # 2. Change and adapt the variables names
 # 3. Switch this MehrWenigerArbeitNum to MehrWenigerArbeit and vice versa 
 # 4. FamillienKategorien to geselschaft Kategorien
-# 5. Compining two plots together https://okanbulut.github.io/bigdata/visualizing-big-data.html#customizing-visualizations
+# 5. Combining two plots together https://okanbulut.github.io/bigdata/visualizing-big-data.html#customizing-visualizations
 # 6. Try to generate 3-D graphs and https://www.r-graph-gallery.com/3d-surface-plot.html or https://www.r-graph-gallery.com/3d_scatter_plot.html
 # 7. No Answer and DONT KNOW --> als "N/A" machen
 

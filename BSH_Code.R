@@ -132,23 +132,3 @@ ds$q69
 tally(ds$q69)
 ds$GeselschaftKategorien <- ds$q69
 tally(ds$GeselschaftKategorien)
-
-
-## Graphs II
-
-## Wichtigkeit der Famillie
-ggplot(data = ds,
-       mapping = aes(x = ZufriedenheitStatus, fill = q69)) +
-  geom_histogram(binwidth=0.5) +
-  labs(x = "Zufriedenheit Finanziellen Status", y = "Count",
-       title = "Geschäftserfolg Scores anhand von Finazilenstatus und Gesellschaftsklasse") +
-  facet_grid(. ~ WichtigkeitFamilie) +
-  theme_bw()
-
-# Einen Datensatz erstellen, die nur die WichtigkeitFamillie Zufrieden, FinanziellenStatus enthält.
-FamillieWichtigZufriedenheitKate <- ds %>% 
-  select(WichtigkeitFamilie, ZufriedenheitStatus, GeselschaftKategorien) %>% 
-  drop_na()
-
-tally(FamillieWichtigZufriedenheitKate) 
-

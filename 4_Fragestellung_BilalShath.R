@@ -13,7 +13,7 @@ str(ds)
 print(ds)
 print(summary(ds))
 
-### Erste Fragestellung: Spielt die Familie oder die Freunden eine Rolle für den Geschäftserfolg?
+### Erste Fragestellung: Spielen Familie oder Freunde eine Rolle für den Geschäftserfolg?​?
 
 # Wichtigkeit der Familie - Frage q1_1
 ds$q1_1

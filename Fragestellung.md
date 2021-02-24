@@ -22,8 +22,8 @@ Wirkt sich das Alter der Befragten auf die Meinung aus?
 
 2. Bilal Shath
 ```
-Bedeutung von Familie -> Spielt die Familie oder die Freunden eine Rolle für den Geschäftserfolg?
-Freunden und Freizeit -> Wirkt sich mehr Arbeit oder mehr Freizeit zu haben?
+Bedeutung von Familie -> Spielen Familie oder Freunde eine Rolle für den Geschäftserfolg?​
+Freunden und Freizeit -> Wie wirkt sich mehr Arbeit oder Freizeit auf die Zufriedenheit des finanziellen Status aus?​
 ```
 
 3. Florian Koch
